@@ -29,6 +29,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -39,3 +40,6 @@
 ---
 
 > _"Break it. Learn it. Secure it."_ – My journey as a cybersecurity enthusiast continues.
+
+![Fatxulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatxulla&show_icons=true&theme=radical)
+
